@@ -4,7 +4,7 @@
 Drawn to GRC - security as accountability, not just architecture.
 
 🎓 MSc Information and Cyber Security · Royal Holloway, University of London · Fall 2026  
-📍 Based in NYC, relocating to London
+📍 Currently based in NYC
 
 CompTIA A+ · Security+ incoming
 
