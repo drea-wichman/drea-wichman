@@ -10,7 +10,7 @@ Drawn to GRC: security as accountability, not just architecture.
 
 Currently  
 · Studying for CompTIA Security+  
-· Building GRC artifacts for Fellow (fictional UK agritech company)  
+· Building GRC artifacts for Fenn (fictional UK agritech company)  
 · Writing case studies on US/UK regulatory enforcement  
 · Building out home lab Phase 2  
 
