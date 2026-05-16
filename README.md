@@ -10,9 +10,9 @@ Drawn to GRC: security as accountability, not just architecture.
 
 Currently  
 · Studying for CompTIA Security+  
-· Building GRC artifacts for Fenn (fictional UK agritech company)  
+· Building GRC artifacts for [Fenn](https://github.com/drea-wichman/fenn) (fictional UK agritech company)  
 · Writing case studies on US/UK regulatory enforcement  
 · Building out home lab Phase 2  
 
-→ wichman.io  
-→ linkedin.com/in/drea-wichman
+→ [wichman.io](https://wichman.io)  
+→ [linkedin.com/in/drea-wichman](https://linkedin.com/in/drea-wichman)
