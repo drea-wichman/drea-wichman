@@ -1,4 +1,4 @@
-*Organic farm operations manager turned cyber security professional.*  
+*Organic farm operations turned cyber security professional.*  
 *12 years of regulations, compliance, and bureaucracy in the magical middle of nowhere.*  
 *Drawn to GRC: security as accountability, not just architecture.*
 
