@@ -5,7 +5,7 @@
 <br>
 
 MSc Information and Cyber Security at Royal Holloway, University of London in Fall 2026  
-Based in NYC, relocating to London  
+American, based in London.  
 CompTIA A+, Security+ incoming
 
 <br>
