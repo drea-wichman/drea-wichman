@@ -4,6 +4,7 @@
 
 <br>
 American, based in London.  
+
 MSc Information and Cyber Security at Royal Holloway, University of London in Fall 2026  
 CompTIA A+, Security+ incoming
 
