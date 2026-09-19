@@ -5,7 +5,7 @@
 <br>
 American, based in London.  
 
-MSc Information and Cyber Security student at Royal Holloway, University of London 
+MSc Information and Cyber Security student at Royal Holloway, University of London  
 CompTIA Security+ and A+ certified
 
 <br>
