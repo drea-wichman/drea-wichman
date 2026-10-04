@@ -12,7 +12,7 @@ CompTIA Security+ and A+ certified
 
 Currently:  
 · Writing GRC policy for [Fenn](https://fenn.wichman.io), a fictional UK agritech company  
-· Building [The Burrow](https://burrow.wichman.io), a 2003 Apple-themed GRC blog  
+· Building [The Burrow](https://burrow.wichman.io), a GRC blog with sources in an interactive 2000s desktop  
 · Working in VS Code, Git, and the terminal
 
 <br>
